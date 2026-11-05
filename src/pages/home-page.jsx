@@ -139,7 +139,7 @@ function HomePage() {
 
       {/* 인기 / 추천 도서 */}
       <Box>
-        <SectionTitle emoji="🔥" title="요즘 인기 도서" subtitle="북냠냠 친구들이 많이 찾는 책" />
+        <SectionTitle emoji="🔥" title="요즘 인기 도서" subtitle="사랑은 유행 친구들이 많이 찾는 책" />
         <BookRow books={ featured } onSelect={ setSelectedBook } />
       </Box>
 

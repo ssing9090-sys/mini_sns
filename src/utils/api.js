@@ -1,7 +1,7 @@
 import { supabase } from '../lib/supabase.js';
 
 /**
- * 북냠냠 데이터 API
+ * 사랑은 유행 데이터 API
  * - 모든 함수는 Supabase 쿼리 결과({ data, error })를 그대로 돌려준다.
  */
 

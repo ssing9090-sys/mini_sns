@@ -71,7 +71,7 @@ function SignupPage() {
       return;
     }
     if (data.session) {
-      toast('가입을 축하해요! 🎉 북냠냠에 오신 걸 환영해요');
+      toast('가입을 축하해요! 🎉 사랑은 유행에 오신 걸 환영해요');
     } else {
       setSentEmail(form.email.trim());
     }

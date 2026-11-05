@@ -1,6 +1,6 @@
 import { createTheme } from '@mui/material/styles';
 
-/** 북냠냠 디자인 토큰 – 파스텔 오렌지(메인) + 파스텔 옐로(보조) */
+/** 사랑은 유행 디자인 토큰 – 파스텔 오렌지(메인) + 파스텔 옐로(보조) */
 export const COLORS = {
   orange: '#FFB38A',
   orangeDeep: '#F0875A',

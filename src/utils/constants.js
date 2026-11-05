@@ -1,5 +1,5 @@
 /** 서비스 기본 정보 */
-export const SERVICE_NAME = '북냠냠';
+export const SERVICE_NAME = '사랑은 유행';
 export const SERVICE_SLOGAN = '지금 나에게 필요한 책, 냠냠 골라줄게요';
 
 /** 감정 버튼 */

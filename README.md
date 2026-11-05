@@ -1,9 +1,9 @@
-# 북냠냠 📚 – 책 추천 & 독서 후기 SNS
+# 사랑은 유행 📚 – 책 추천 & 독서 후기 SNS
 
 > 지금 나에게 필요한 책, 냠냠 골라줄게요!
 
 기분·고민·MBTI에 맞는 책을 추천받고, 독서 후기를 나누는 모바일 중심 SNS입니다.
-파스텔 오렌지 + 옐로 톤의 귀여운 디자인과 책 캐릭터 **냠냠이**가 함께해요.
+파스텔 오렌지 + 옐로 톤의 귀여운 디자인과 펼친 책을 머리에 쓴 캐릭터 **냠냠이**(`public/nyamnyam.svg`)가 함께해요.
 
 - **배포 주소**: https://ssing9090-sys.github.io/mini_sns/
 - **기술 스택**: React 19 + Vite + MUI + Supabase(PostgreSQL, Auth) + GitHub Pages

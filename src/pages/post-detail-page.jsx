@@ -122,7 +122,7 @@ function PostDetailPage() {
 
   const handleShare = async () => {
     const url = window.location.href;
-    const title = `${post.book.title} 독서 후기 | 북냠냠`;
+    const title = `${post.book.title} 독서 후기 | 사랑은 유행`;
     try {
       if (navigator.share) {
         await navigator.share({ title, text: post.caption.slice(0, 60), url });

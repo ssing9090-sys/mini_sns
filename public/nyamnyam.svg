@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="냠냠이 캐릭터">
+  <g stroke="#5B3A29" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="36" cy="92" rx="9" ry="5" fill="#FFB38A"/>
+    <ellipse cx="64" cy="92" rx="9" ry="5" fill="#FFB38A"/>
+    <path d="M18 66q-9 3-8 11q6 3 11-3z" fill="#FFF6D6"/>
+    <path d="M82 66q9 3 8 11q-6 3-11-3z" fill="#FFF6D6"/>
+    <path d="M50 28c21 0 34 15 34 36c0 19-14 28-34 28S16 83 16 64c0-21 13-36 34-36z" fill="#FFF6D6"/>
+  </g>
+  <ellipse cx="26" cy="69" rx="6" ry="4" fill="#FF9E9E" opacity=".7"/>
+  <ellipse cx="74" cy="69" rx="6" ry="4" fill="#FF9E9E" opacity=".7"/>
+  <g stroke="#5B3A29" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M31 60q6-8 12 0" fill="none"/>
+    <path d="M57 60q6-8 12 0" fill="none"/>
+    <path d="M41 68q9 1 18 0q-1 11-9 11t-9-11z" fill="#E8705F"/>
+  </g>
+  <path d="M46.5 68.6h7v3.2q-3.5 1.8-7 0z" fill="#fff"/>
+  <g stroke="#5B3A29" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M50 18L10 41q1 10 9 11q16-10 31-13q15 3 31 13q8-1 9-11z" fill="#fff"/>
+    <path d="M15 47q16-10 35-14" fill="none" stroke-width="1.6" opacity=".45"/>
+    <path d="M85 47q-16-10-35-14" fill="none" stroke-width="1.6" opacity=".45"/>
+    <path d="M50 8L9 31q-5 3-3 8l1 3q2 4 6 2l37-19z" fill="#FFB38A"/>
+    <path d="M50 8l41 23q5 3 3 8l-1 3q-2 4-6 2L50 25z" fill="#FFB38A"/>
+    <path d="M0 5C-8-1-3-6 0-2C3-6 8-1 0 5z" transform="translate(29 28) rotate(-30)" fill="#FF9E9E" stroke="none"/>
+    <path d="M60 19l14 7.8" fill="none" stroke-width="2.4" opacity=".55"/>
+    <path d="M61 25l8 4.4" fill="none" stroke-width="2.4" opacity=".55"/>
+    <path d="M45 37v13l5-3.5l5 3.5V37z" fill="#FF9E9E" stroke-width="2.4"/>
+  </g>
+</svg>
